@@ -7,13 +7,10 @@
 
 - 🌱 I’m currently learning **node-js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-using-react-omega.vercel.app/](https://my-portfolio-using-react-omega.vercel.app/)
-
 - 📫 How to reach me **abhinavparashar486@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/abhinavsharma486/collections/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/abhinavsharma486/collections/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/abhinav.parashar2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abhinav.parashar2505" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abhinav.parashar2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhinav.parashar2505" height="30" width="40" /></a>
 </p>
