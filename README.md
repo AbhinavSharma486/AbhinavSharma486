@@ -18,6 +18,7 @@
 - ⚡ **Fun Fact:** I love watching **movies & web series** 🎬 and discovering new places to travel 🌍✈️  
 - 👨‍💻 **My Portfolio:**  
   🧠 [https://abhinav-sharma-portfolio-nextjs.vercel.app](https://abhinav-sharma-portfolio-nextjs.vercel.app)
+- Email :- parasharabhinav486@gmail.com
 
 ---
 
@@ -29,9 +30,6 @@
   </a>
   <a href="https://www.linkedin.com/in/abhinav-sharma-6254252a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abhinavparashar486@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=7819872024" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
