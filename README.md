@@ -13,11 +13,9 @@
 
 - 🔭 **Currently Working On:** Enhancing my hands-on experience with **Next.js** through real-world projects and experimentation. I'm focused on building highly performant and scalable web applications. ⚒️🚀  
 - 🌱 **Currently Learning:** Advanced **Next.js** concepts — performance optimization, middleware, SSR. Always leveling up! 📚⚙️  
-- 💬 **Ask Me About:**  
-  `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` · `Express.js` · `MongoDB` · `Next.js`  
+- 💬 **Ask Me About:** `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` · `Express.js` · `MongoDB` · `Next.js`  
 - ⚡ **Fun Fact:** I love watching **movies & web series** 🎬 and discovering new places to travel 🌍✈️  
-- 👨‍💻 **My Portfolio:**  
-  🧠 [https://abhinav-sharma-portfolio-nextjs.vercel.app](https://abhinav-sharma-portfolio-nextjs.vercel.app)
+- 👨‍💻 **My Portfolio:** 🧠 [https://abhinav-sharma-portfolio-nextjs.vercel.app](https://abhinav-sharma-portfolio-nextjs.vercel.app)
 - Email :- parasharabhinav486@gmail.com
 
 ---
@@ -63,7 +61,7 @@
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
   <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -89,6 +87,24 @@
 
 ---
 
+## 🏆 Certifications
+
+* **Build Real World AI Applications with Gemini and Imagen** – Google (Sep 2025) 🤖
+    * [View Credential](https://www.credly.com/badges/97062f4f-a21e-4142-8b72-ae315b46204e/public_url)
+* **Full Stack Development** – Chandigarh University (Sep 2025) 🎓
+* **Introduction to Generative AI** – Google (Sep 2025) ✨
+    * Credential ID: `8935514`
+* **React JS Course** – Scaler (Sep 2025) ⚛️
+* **Software Engineering Job Simulation** – JPMorgan Chase (Sep 2025) 💻
+    * Credential ID: `68cf70a9010f69612c275030`
+* **Decision Making** – Harvard Business Publishing (Aug 2025) 💡
+* **Digital Intelligence** – Harvard Business Publishing (Aug 2025) 🧠
+* **Strategy Planning and Execution** – Harvard Business Publishing (Aug 2025) 🎯
+* **Innovation and Creativity** – Harvard Business Publishing (Aug 2025) 🎨
+* **Team Management** – Harvard Business Publishing (Aug 2025) 🤝
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -98,5 +114,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma486&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
----
