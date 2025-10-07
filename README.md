@@ -90,24 +90,31 @@
 ## 🏆 12+ Certifications
 
 * **AWS Solutions Architecture Job Simulation** – Forage (Oct 2025) ☁️
-    * [View Credential]([https://www.credly.com/badges/97062f4f-a21e-4142-8b72-ae315b46204e/public_url](https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_68cf70a9010f69612c275030_1759566877652_completion_certificate.pdf))
+    * [View Credential](https://drive.google.com/file/d/1BbrPfdAn0IGKWAhgozQnxWYndXPI4zTB/view?usp=sharing)
 * **Build Real World AI Applications with Gemini and Imagen** – Google (Sep 2025) 🤖
     * [View Credential](https://www.credly.com/badges/97062f4f-a21e-4142-8b72-ae315b46204e/public_url)
 * **Full Stack Development** – Chandigarh University (Sep 2025) 🎓
+    * [View Credential](https://drive.google.com/file/d/1ZOyMe_4zTlHqfEAZOuuI44spgF0j3sMu/view?usp=sharing)
 * **Basics of Java Programming (25GPA105)** – Chandigarh University (Advanced Credit Program 2025) ☕
-    * Credential ID: `CET7329171`
+    * [View Credential](https://drive.google.com/file/d/1j4s55N7gJR20VTbMbjEFrMlbkJonIVF9/view?usp=sharing)
 * **Introduction to AI (25GPA104)** – Chandigarh University (Advanced Credit Program 2025) 🧠
-    * Credential ID: `CET7329171`
+    * [View Credential](https://drive.google.com/file/d/1-9BjOxYvdrcN3zilrVWiZhHDcqpYINQM/view?usp=sharing)
 * **Introduction to Generative AI** – Google (Sep 2025) ✨
-    * Credential ID: `8935514`
+    * [View Credential](https://drive.google.com/file/d/1CE8MPHXnf5p2OA4h8yJjaCElw73RUfBA/view?usp=sharing)
 * **React JS Course** – Scaler (Sep 2025) ⚛️
+    * [View Credential](https://drive.google.com/file/d/1P2OzCqzkyYf6AwRCFzTl5VFPasj6WnQE/view?usp=sharing)
 * **Software Engineering Job Simulation** – JPMorgan Chase (Sep 2025) 💻
-     * [View Credential]([https://www.credly.com/badges/97062f4f-a21e-4142-8b72-ae315b46204e/public_url](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_68cf70a9010f69612c275030_1758427660786_completion_certificate.pdf))
+    * [View Credential](https://drive.google.com/file/d/1HI7iC2cwFx4oPtqr3O-LHqDn-7j7U07J/view?usp=sharing)
 * **Decision Making** – Harvard Business Publishing (Aug 2025) 💡
+    * [View Credential](https://drive.google.com/file/d/1Ewla10aF4_IbjCyqNDrQKLHOZhviJxo_/view?usp=sharing)
 * **Digital Intelligence** – Harvard Business Publishing (Aug 2025) 🧠
+    * [View Credential](https://drive.google.com/file/d/1yaLA6h4Vfmztidf2LX8fIHJ9peGI-l4z/view?usp=sharing)
 * **Strategy Planning and Execution** – Harvard Business Publishing (Aug 2025) 🎯
+    * [View Credential](https://drive.google.com/file/d/1itzltgbKIFk16ABIa0IyTnufepP3kXng/view?usp=sharing)
 * **Innovation and Creativity** – Harvard Business Publishing (Aug 2025) 🎨
+    * [View Credential](https://drive.google.com/file/d/1R9AjjQYZ55MrZiB8mEZoYHvFnc85VQFV/view?usp=sharing)
 * **Team Management** – Harvard Business Publishing (Aug 2025) 🤝
+    * [View Credential](https://drive.google.com/file/d/1keiYG_IJf6tKaol37TLljsP9c0RzXAcx/view?usp=sharing)
 
 ---
 
