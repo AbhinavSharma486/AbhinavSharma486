@@ -136,6 +136,8 @@ up! 📚⚙️  
 
 * **AWS Solutions Architecture Job Simulation** – AWS (Oct 2025) ☁️
     * [View Credential](https://drive.google.com/file/d/1BbrPfdAn0IGKWAhgozQnxWYndXPI4zTB/view?usp=sharing)
+* **Applied Data Analytics for Business Decisions** – Chandigarh University (Oct 2025) ☁️
+    * [View Credential](https://drive.google.com/file/d/1juTIoX18cIqD2BackjsBwtsccGIiQrYh/view)
 * **Data Science** – Chandigarh University (Oct 2025) 📊
     * [View Credential](https://drive.google.com/file/d/1xPKP6L3gWyWf08MyQWBNwXwu-gCEFje9/view?usp=sharing)
 * **Introduction to AI** – Chandigarh University (Oct 2025) 🧠
