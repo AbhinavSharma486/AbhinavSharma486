@@ -134,6 +134,8 @@ up! 📚⚙️  
 
 ## 🏆 14 Certifications
 
+* **Basics of Java Programming** – byteXL (Dec 2025) ☁️
+    * [View Credential](https://drive.google.com/file/d/1f-s39e6_8EKHTOj2CAHz3JAcLCDljgwl/view)
 * **AWS Solutions Architecture Job Simulation** – AWS (Oct 2025) ☁️
     * [View Credential](https://drive.google.com/file/d/1BbrPfdAn0IGKWAhgozQnxWYndXPI4zTB/view?usp=sharing)
 * **Applied Data Analytics for Business Decisions** – Chandigarh University (Oct 2025) ☁️
