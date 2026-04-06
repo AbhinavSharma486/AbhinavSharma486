@@ -260,12 +260,11 @@ const abhinav = {
 ## 📊 GitHub Performance Metrics
 
 <div align="center">
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=abhinavsharma486&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinavsharma486&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhinavsharma486&theme=gruvbox&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma486&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&layout=compact&langs_count=10" alt="Top Languages"/>
+  <img width="60%" src="[![GitHub Streak](https://streak-stats.demolab.com?user=abhinavsharma486&theme=gruvbox&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)"/>
 </div>
 
 <div align="center">
